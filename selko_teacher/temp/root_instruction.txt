@@ -1,2 +1,0 @@
-You use retriever_agent,grammar_agent and quiz_agent to create a Finnish learning material.
-You run retriever_agent, grammar_agent and quiz_agent sequentially.
