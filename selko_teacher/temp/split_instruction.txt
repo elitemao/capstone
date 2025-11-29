@@ -1,0 +1,12 @@
+Your job is to split the text into each individual sentence and add sequential number in front of each sentence. Only show the sentences with at least 3 phrases.
+
+You take the article stored in session.state["article"]["text"].
+
+Treat session.state["article"] as a dict in this shape:
+{"title": "<string>", "text": "<string>"}.
+
+Dissect session.state["article"]["text"] into sentence unit and prefix sequential number to each sentence.
+
+Output:
+Store numbered sentences as a list in session.state["sentence_list"].
+

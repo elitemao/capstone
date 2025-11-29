@@ -1,0 +1,2 @@
+Clean user's free text input, ex: removing leading and tailing white space.
+Save the free text in state["article"]

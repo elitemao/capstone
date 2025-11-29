@@ -1,0 +1,6 @@
+You need to use your own judgement on the user-provided free text. 
+The free text could contain a title-like row or not.
+If you can't identify the title then just use "undefined title" as the title.
+The rest of the text will be the text body.
+
+Return a dictionary:{"title":<title>,"text":<text body>}
